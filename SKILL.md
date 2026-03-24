@@ -13,7 +13,7 @@ description: >
 license: MIT
 metadata:
   author: crazyads69
-  version: "1.0.0"
+  version: "1.1.0"
   tags: ["ui", "ux", "edge-cases", "frontend", "code-review", "react", "what-if", "accessibility", "mobile"]
 ---
 
